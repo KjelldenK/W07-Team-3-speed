@@ -56,4 +56,8 @@ root                    (project root folder)
 
 ---
 
+
 - # TODO: Add names and emails here
+
+* marco sarango sar21005@byui.edu
+
