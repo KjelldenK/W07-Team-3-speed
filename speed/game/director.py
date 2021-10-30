@@ -101,3 +101,12 @@ class Director:
                 points = words[i].get_points()
                 self._score.add_points(points)
                 self._typeword.remove_word(i)
+
+    
+    
+
+
+
+
+    
+

@@ -81,4 +81,8 @@ class Actor:
         """
         self._points = points
 
+
+    
+
+
     
