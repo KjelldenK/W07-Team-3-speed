@@ -10,7 +10,7 @@ for i in range(1,21):
 
 print(list[1:]) """
 
-class Actor():
+""" class Actor():
     def __init__(self):
         self._item = ""
         self._position = 0
@@ -70,3 +70,4 @@ class master():
 
 Master = master()
 Master.start()
+  """
