@@ -60,4 +60,4 @@ root                    (project root folder)
 - # TODO: Add names and emails here
 
 * marco sarango sar21005@byui.edu
-* Kjellden Knutzen email kjelldenKnutzen@gmail.com
+* Kjellden Knutzen email kjelldenKnutzen@gmail.com or kjellden@byui.edu
